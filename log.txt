@@ -1,0 +1,9 @@
+
+1707502867980: ::1 GET: /users
+1707502878932: ::1 POST: /api/user
+1707502887586: ::1 GET: /users
+1707502902013: ::1 GET: /users
+1707502903200: ::1 GET: /users
+1707502916622: ::1 GET: /api/users
+1707502957789: undefined GET: /api/users
+1707502986417: ::1 GET: /api/users
